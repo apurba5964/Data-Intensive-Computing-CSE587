@@ -1,5 +1,11 @@
 # Data-Intensive-Computing-CSE587
 Data Intensive Computing-CSE587
+LAB 1:
+Shiny R visualization: 
+
+https://apurbama-dic-lab1.shinyapps.io/HeatMapView/
+
+
 LAB 2:
 The goal of this project is to demonstrate Data Aggregation, 
 Big data analysis and Visualization on big data which is collected over multiple sources
